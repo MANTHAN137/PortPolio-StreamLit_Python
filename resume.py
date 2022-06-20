@@ -35,14 +35,12 @@ st.markdown("""
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link disable" href="/">Home <span class="sr-only">(current)</span></a>
-      </li>
+      
       <li class="nav-item">
         <a class="nav-link" href="#education">Education</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#work-experience">Work Experience</a>
+       <li class="nav-item">
+        <a class="nav-link" href="#skills">Skills</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
@@ -89,10 +87,10 @@ st.markdown('''
 ## Education
 ''')
 st.markdown('''
-- Join Entrance Exam(JEE) score : `96.32`%tile
-- Maharashtra Common Entrace Test(Mhtcet) :`99.62`%tile
+- Join Entrance Exam(**JEE**) score : `96.32`%tile
+- Maharashtra Common Entrace Test(**Mhtcet**) :`99.62`%tile
 ''')
-txt('**B.Tech** Information Technology, *VJTI*, mumbai',
+txt('     **B.Tech** Information Technology, *VJTI*, mumbai',
 '2020-2024')
 st.markdown('''
 - Current GPA: `3.04`
@@ -118,11 +116,11 @@ st.markdown('''
 txt2('LinkedIn', 'https://www.linkedin.com/in/manthan-dhole-174548202/')
 txt2('GitHub', 'https://github.com/MANTHAN137')
 txt2('Instagram', 'https://www.instagram.com/3manthan137/')
-txt2('EmailId ', 'indiakamanthan@gmail.com')
+txt2('YouTube ', 'https://www.youtube.com/channel/UCNw9-IMi_MfFrw83TC4Mx-A')
 
 st.sidebar.title("Additional Info")
 st.sidebar.info(
         "This an interactive streamlit app completely created with Python's latest library **streamlit** "
         "Do reach out to me on [LinkedIn](https://www.linkedin.com/in/manthan-dhole-174548202/) or "
-        "at [Mail me](mailto:indiakamanthan@gmail.com) to know more. "
+        "at [Mail me](mailto:indiakamanthan@gmail.com) to know more. Also check out by [YOUTUBE](https://www.youtube.com/channel/UCNw9-IMi_MfFrw83TC4Mx-A)"
        )
