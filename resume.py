@@ -124,5 +124,5 @@ st.sidebar.title("Additional Info")
 st.sidebar.info(
         "This an interactive streamlit app completely created with Python's latest library **streamlit** "
         "Do reach out to me on [LinkedIn](https://www.linkedin.com/in/manthan-dhole-174548202/) or "
-        "at [Mail me](mailto:indiakamanthan@gmail.com) to know more. Also check out by [YOUTUBE](https://www.youtube.com/channel/UCNw9-IMi_MfFrw83TC4Mx-A)"
+        "at [Mail me](mailto:indiakamanthan@gmail.com) to know more. Also check out some of my [YOUTUBE](https://www.youtube.com/channel/UCNw9-IMi_MfFrw83TC4Mx-A) videos"
        )
