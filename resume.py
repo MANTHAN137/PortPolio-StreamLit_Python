@@ -14,9 +14,10 @@ st.write('''
 image = Image.open('dp.png')
 st.image(image, width=150)
 
+
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- VJTI mumbai 2^nd year Student
+- VJTI mumbai 2nd year Student
 - Strong Passion in ML and AI and also in DSA problem Solving
 
 ''')
@@ -114,3 +115,11 @@ txt2('LinkedIn', 'https://www.linkedin.com/in/manthan-dhole-174548202/')
 txt2('GitHub', 'https://github.com/MANTHAN137')
 txt2('Instagram', 'https://www.instagram.com/3manthan137/')
 txt2('EmailId ', 'indiakamanthan@gmail.com')
+
+st.sidebar.title("Additional Info")
+    st.sidebar.info(
+        "This an interactive streamlit app completely created with Python's latest library **streamlit** "
+        "Do reach out to me on [LinkedIn](https://www.linkedin.com/in/manthan-dhole-174548202/) or "
+        "at [Mail me](mailto:indiakamanthan@gmail.com) to know more. "
+       
+)
