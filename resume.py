@@ -88,8 +88,6 @@ def txt4(a, b, c):
 st.markdown('''
 ## Education
 ''')
-txt('SCC        92.8%')
-txt('HSC        78.3%')
 txt('**MHTCET** score **99.62%tile**')
 txt('**JEE**    score **96.32%tile**')
 txt('**B.Tech** Information Technology, *VJTI*, mumbai',
