@@ -36,7 +36,7 @@ st.markdown("""
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link disable" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#education">Education</a>
@@ -88,10 +88,10 @@ def txt4(a, b, c):
 st.markdown('''
 ## Education
 ''')
-txt('SCC              : 92.8%')
-txt('HSC              : 78.3%')
-txt('**MHTCET** score :**99.62%tile**')
-txt('**JEE**    score :**96.32%tile**')
+txt('SCC        92.8%')
+txt('HSC        78.3%')
+txt('**MHTCET** score **99.62%tile**')
+txt('**JEE**    score **96.32%tile**')
 txt('**B.Tech** Information Technology, *VJTI*, mumbai',
 '2020-2024')
 st.markdown('''
