@@ -105,6 +105,7 @@ st.markdown('''
 ''')
 txt3('Programming', '`Python`, `Java`,`C++`')
 txt3('AppDev','`Flutter`')
+txt3('WebDev','`HTML,CSS AND JAVACRIPT`'
 txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
 txt3('Data visualization', '`matplotlib`, `seaborn`')
 txt3('Machine Learning', '`scikit-learn`')
